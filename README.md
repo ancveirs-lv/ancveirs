@@ -27,7 +27,7 @@ I prefer systems that are **secure, observable, reproducible and boringly reliab
 
 ### Kiberdrošības minimums ikvienam
 
-[![Kiberdrošības minimums ikvienam](./assets/kiberdrosibas-minimums-cover.png)](https://github.com/YOUR-USERNAME/kiberdrosibas-minimums)
+[![Kiberdrošības minimums ikvienam](./assets/00-cover.png)](https://github.com/ancveirs-lv/kiberdrosibas-minimums)
 
 **25 practical cybersecurity rules for protecting accounts, devices, data and money.**
 
@@ -35,7 +35,7 @@ A Latvian-language public cybersecurity awareness resource built around simple, 
 
 It covers social engineering, account security, authentication, device and network protection, fraud recognition and practical incident response.
 
-**[View the project →](https://github.com/YOUR-USERNAME/kiberdrosibas-minimums)** · **[PDF →](https://github.com/YOUR-USERNAME/kiberdrosibas-minimums/blob/main/downloads/kiberdrosibas-minimums-25-slides-final.pdf)**
+**[View the project →](https://github.com/ancveirs-lv/kiberdrosibas-minimums)** · **[PDF →](https://github.com/ancveirs-lv/kiberdrosibas-minimums/blob/main/downloads/kiberdrosibas-minimums-25-slides-final.pdf)**
 
 ## Engineering principles
 
