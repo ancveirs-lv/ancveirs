@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-pressure.png" alt="Zigmārs Ancveirs" width="100%" />
+  <img src="./assets/banner_pressure.png" alt="Zigmārs Ancveirs" width="100%" />
 </p>
 
 # Hi — I’m Zigmārs Ancveirs
