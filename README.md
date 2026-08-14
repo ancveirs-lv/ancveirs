@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-pressure.png" alt="Zigmārs Ancveirs" width="100%" />
+</p>
+
 # Hi — I’m Zigmārs Ancveirs
 
 **Technology leader, software engineer and systems builder working across FinTech, RegTech, CivTech, cybersecurity and AI.**
